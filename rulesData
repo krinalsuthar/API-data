@@ -1,0 +1,65 @@
+{
+  "title": "rules",
+  "Specific sports rules": [
+    {
+      "sport": "American Football",
+      "rules": [
+        "All markets will be settled on the result including overtime unless stated otherwise in these Gamekhelo American Football Rules or in the Market Information.",
+        "If the game results in a tie after overtime all bets on the outright match winner market will be void.",
+        "If a match does not start on the scheduled starting date and is not completed within three days of the scheduled completion date, all bets will be void except for those on markets which have been unconditionally determined.",
+        "If a match starts but is later abandoned or postponed, then within three days of the scheduled start date: (a) at least 55 minutes of play must have elapsed; or (b) an official result must be 'called' by the relevant governing body; otherwise all bets will be void.",
+        "For 'Individual player' markets, bets shall be void on any player who does not start in any down during the match."
+      ]
+    },
+    {
+      "sport": "Athletics",
+      "rules": [
+        "Where there is a presentation ceremony, markets will be settled on the official result of the relevant governing body at the time of the ceremony.",
+        "If there is no presentation ceremony, outcomes will be determined in accordance with the official result regardless of any subsequent disqualification or amendment.",
+        "Unless stated otherwise, if a track or field event is abandoned and not completed within 7 days, all bets will be void except those unconditionally determined."
+      ]
+    },
+    {
+      "sport": "Australian Rules Football",
+      "rules": [
+        "Bets apply to regular time excluding overtime. However bets on 'Finals' matches apply to regular time including overtime except for those on markets which have been unconditionally determined or as stated otherwise in the Market Information (e.g. half-time/full-time markets). If the game results in a tie,  Gamekhelo  dead-heat rules apply to bets on the match odds market.",
+        "If a match does not start on the scheduled starting date and is not completed within three days of the scheduled start date, all bets will be void except for those on markets which have been unconditionally determined.",
+        "If a match starts but is abandoned or postponed before half-time and not completed within three days of the scheduled start date then the match shall be deemed to be a tie and settled on  Gamekhelo  dead-heat rules. If a match starts but is abandoned or postponed in the second half and not completed within three days of the scheduled start date then the match shall be settled on the official result of the relevant governing body. In both instances, bets on the match odds market will be settled as set out above and all other bets will be void except for those on markets which have been unconditionally determined.",
+        "All bets relating to any individual player will stand if they are listed in any 22 player squad on the match day, irrespective of whether they take any part in the match or not."
+      ]
+    },
+    {
+      "sport": "Baseball",
+      "rules": [
+        "These  Gamekhelo  Baseball Rules apply to Major League Baseball (MLB), World Baseball Classic and Japanese Baseball only. All other baseball, including Finnish Baseball for example, will be governed by the rules set out in the General Rules and the Market Information.",
+        "If a match does not start on the scheduled starting date, all bets will be void.",
+        "If an MLB match starts but is later abandoned or postponed and an official result is not declared within three days of the scheduled start date, all bets will be void, except for those on markets which have been unconditionally determined.",
+        "If a Japanese Baseball match starts but is later abandoned or postponed and the match is not completed within three days of the scheduled start date, all bets will be void except for those on markets which have been unconditionally determined.",
+        "All bets will include extra innings, unless otherwise stated in the Market Information.",
+        "All bets on 'Total runs' or 'Run line' markets will be void unless there has been at least 9 innings completed (8 1/2 if the home team is ahead), or if the official length of the match is 7 innings, then all bets will be void unless there has been 7 innings (6 ½ if the home team is ahead), except (in both circumstances) those bets on markets which have been unconditionally determined.",
+        "In 'Listed' markets, bets will be void unless both named pitchers listed in the  Gamekhelo  market start as pitchers in the first fielding innings for their respective teams."
+      ]
+    }
+  ],
+  "titleRules": [
+    "If you not accept this agreement do not place any bet.",
+    "Cheating bets deleted automatically or manual. No Claim.",
+    "Admin decision is final and no claim on it.",
+    "Batsman Runs (In-Play) Over/Under (back/lay) runs bets will stand after batsman has faced one ball or is given out before first ball is faced. Score counts if batsman is Not-Out including if innings is declared. In case of rain, match abandoned etc. settled bets will be valid.",
+    "Runs at Fall of 1st Wicket At least one delivery must be bowled, if no wickets fall bets will be void unless settlement is already determined.",
+    "Runs at Fall of Next Wicket The total innings runs scored by a team before the fall of the specified wicket determines the result of the market...",
+    "We do not accept manual bet.",
+    "In case of cheating and betting in unfair rates we will cancel the bet even after settling.",
+    "Local fancy are based on Haar - Jeet.",
+    "Incomplete session will be cancelled but complete session will be settled.",
+    "In case of match abandoned, cancelled, no result etc. completed sessions will be settled.",
+    "In case of a Tie match,match odds bets are cancelled but only settled and completed session ,fancy are valid",
+    "Lambi Paari : In 20-20 match entire twenty overs should be bowled, in case of rain or any delay if even one over is deducted the bets will be cancelled...",
+    "Advance Session,Lambi 1`st Inning Valid Only",
+    "Total Match Four ,Total Match Siixes,Total Match Runs,Total Match Wides,Total Match Wicket. If Over Gets Less Then All BET Will Cancel...",
+    "1st Over Total Runs Prices will be offered for the total runs scored during the 1st over of the match. Extras and penalty runs will be included...",
+    "Limited Overs Matches - Individual Batsmen Runs or Partnerships In a limited overs match where an individual batsman or partnership runs are traded...",
+    "Test Matches - Individual Batsmen Runs / Partnerships All bets, open or closed, on an individual batsman or partnership runs shall be void...",
+    "Due to any technical issue software not work properly at that time we are not responsible for any loss."
+  ]
+}
