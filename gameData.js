@@ -1,4 +1,4 @@
-export const ruleData = {
+ ruleData = {
     title: "rules",
     "Specific sports rules": [
         {
@@ -153,7 +153,7 @@ export const ruleData = {
         },
     ]
 }
-export const titleRules = [" If you not accept this agreement do not place any bet.", " Cheating bets deleted automatically or manual. No Claim.",
+titleRules = [" If you not accept this agreement do not place any bet.", " Cheating bets deleted automatically or manual. No Claim.",
     "Admin decision is final and no claim on it.", " Batsman Runs (In-Play) Over/Under (back/lay) runs bets will stand after batsman has faced one ball or is given out before first ball is faced. Score counts if batsman is Not-Out including if innings is declared. In case of rain, match abandoned etc. settled bets will be valid.",
     "Runs at Fall of 1st Wicket At least one delivery must be bowled, if no wickets fall bets will be void unless settlement is already determined.",
     " Runs at Fall of Next Wicket The total innings runs scored by a team before the fall of the specified wicket determines the result of the market. If a team declares or reaches their target then the total amassed will be the result of the market. Bets will be void should no more play take place following the intervention of rain, or any other delay, as the ability to reach previous quotes offered will have been removed . In case of rain, match abandoned etc. settled bets will be valid.",
@@ -167,4 +167,5 @@ export const titleRules = [" If you not accept this agreement do not place any b
     "Test Matches - Individual Batsmen Runs / Partnerships All bets, open or closed, on an individual batsman or partnership runs shall be void if 50 full overs are not bowled unless one team has won, is dismissed or declares prior to that point. Bets on partnership totals make up when the next wicket falls. If a batsman in the relevant partnership retires hurt, the partnership is treated as continuing between the remaining batsman and the batsman who comes to the wicket. A partnership is also treated as being ended by the end of an innings.",
     "Due to any technical issue software not work properly at that time we are not responsible for any loss."
 ]
+
 
