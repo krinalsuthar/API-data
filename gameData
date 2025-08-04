@@ -103,5 +103,110 @@
     "category": "Slots",
     "rating": 3.9,
     "available": true
+  },
+  {
+    "id": 16,
+    "title": "Ludo Express",
+    "category": "Board",
+    "rating": 4.3,
+    "available": true
+  },
+  {
+    "id": 17,
+    "title": "Snakes & Ladders",
+    "category": "Board",
+    "rating": 3.7,
+    "available": true
+  },
+  {
+    "id": 18,
+    "title": "Wheel of Fortune",
+    "category": "Live Show",
+    "rating": 4.2,
+    "available": true
+  },
+  {
+    "id": 19,
+    "title": "Coin Toss",
+    "category": "Mini Game",
+    "rating": 3.6,
+    "available": false
+  },
+  {
+    "id": 20,
+    "title": "Poker Royale",
+    "category": "Card",
+    "rating": 4.4,
+    "available": true
+  },
+  {
+    "id": 21,
+    "title": "Plinko",
+    "category": "Arcade",
+    "rating": 4.1,
+    "available": true
+  },
+  {
+    "id": 22,
+    "title": "Blackjack 21",
+    "category": "Card",
+    "rating": 4.6,
+    "available": true
+  },
+  {
+    "id": 23,
+    "title": "Car Roulette",
+    "category": "Casino",
+    "rating": 3.9,
+    "available": false
+  },
+  {
+    "id": 24,
+    "title": "Slot Machine X",
+    "category": "Slots",
+    "rating": 4.0,
+    "available": true
+  },
+  {
+    "id": 25,
+    "title": "Number Guess",
+    "category": "Mini Game",
+    "rating": 3.5,
+    "available": true
+  },
+  {
+    "id": 26,
+    "title": "Horse Racing",
+    "category": "Sports",
+    "rating": 4.3,
+    "available": true
+  },
+  {
+    "id": 27,
+    "title": "Penalty Shootout",
+    "category": "Sports",
+    "rating": 4.2,
+    "available": true
+  },
+  {
+    "id": 28,
+    "title": "Fishing Frenzy",
+    "category": "Arcade",
+    "rating": 4.4,
+    "available": false
+  },
+  {
+    "id": 29,
+    "title": "Basketball Clash",
+    "category": "Sports",
+    "rating": 4.0,
+    "available": true
+  },
+  {
+    "id": 30,
+    "title": "Tambola Express",
+    "category": "Lottery",
+    "rating": 3.6,
+    "available": true
   }
 ]
